@@ -1,6 +1,7 @@
 cosl
 dacite
 jinja2
-ops>=2.0.0
+#ops>=2.0.0
+git+https://github.com/tonyandrewmeyer/operator@skip-defer-dupes-935
 pydantic~=2.10.0
 yarl
