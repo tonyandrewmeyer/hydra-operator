@@ -198,3 +198,4 @@ parts:
     build-packages:
       - rustc
       - cargo
+      - git
